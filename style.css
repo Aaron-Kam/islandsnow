@@ -1,0 +1,32 @@
+.ui.borderless.menubar.menu {
+  background-color: #f7f7f7;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.menubar.menu .item:hover{
+  background-color: #f7f7f7;
+}
+
+.ui.borderless.second.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.second.menu .item:hover{
+  background-color: #fff;
+}
+
+.footer {
+  height: 431px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.footer a {
+  color: black;
+}
+
+.ui.relaxed.list .item {
+  color: black;
+}
